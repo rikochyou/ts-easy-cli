@@ -21,7 +21,7 @@
     "eslint-plugin-standard": "^4.0.1"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "boxen": "^4.2.0",
     "chalk": "^4.0.0",
     "commander": "^5.0.0",
